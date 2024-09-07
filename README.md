@@ -8,7 +8,7 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 
 # PROJETOS 
 
--(https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)[:link:] **TESTES PARAMÉTRICOS E REGRESSÃO LINEAR PARA TAXA DE OCUPAÇÃO DE IMÓVEIS**
+- **TESTES PARAMÉTRICOS E REGRESSÃO LINEAR PARA TAXA DE OCUPAÇÃO DE IMÓVEIS**[:link:](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
 
 
