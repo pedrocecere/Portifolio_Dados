@@ -31,5 +31,6 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
   - taxa de desabrigados
 
   Essas variáveis são determinantes para explicar a taxa de ocupação, conforme demonstrado pela análise dos dados fornecidos.
+  Nosso modelo de Regressão obtve um R² = 0.79!
 
 #### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
