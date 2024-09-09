@@ -11,7 +11,7 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 ## [TESTES PARAMÉTRICOS E REGRESSÃO LINEAR PARA TAXA DE OCUPAÇÃO DE IMÓVEIS](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
 - **Descrição do projeto:**  
-  Neste projeto, realizo uma análise estatística para avaliar a taxa de ocupação dos imóveis em um determinado bairro, investigando as relações com outras variáveis relevantes. A análise é focada em métodos estatísticos paramétricos e suas aplicações no problema de negócio. Alguns erros são deliberadamente incluídos para destacar a importância de uma análise exploratória qualificada, baseada em estatística, bem como a aplicação dos testes adequados para garantir que as condições dos modelos paramétricos sejam atendidas.
+  Neste projeto, realizo uma análise estatística para avaliar a taxa de ocupação dos imóveis em uma determinada cidade, investigando as relações com outras variáveis relevantes. A análise é focada em métodos estatísticos paramétricos e suas aplicações no problema de negócio. Alguns erros são deliberadamente incluídos para destacar a importância de uma análise exploratória qualificada, baseada em estatística, bem como a aplicação dos testes adequados para garantir que as condições dos modelos paramétricos sejam atendidas.
 
 - **Problema de negócio:**  
   A prefeitura deseja identificar os fatores que mais afetam a taxa de ocupação de imóveis em determinados bairros, com o objetivo de embasar políticas de ocupação urbana, planejamento de investimentos e projetos socioculturais.
