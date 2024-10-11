@@ -34,3 +34,5 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
   Nosso modelo de Regressão obtve um R-squared = 0,8!
 
 #### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
+
+## [ANÁLISE PARA ALAVANCAGEM DE RECEITA - RESORT](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
