@@ -47,11 +47,11 @@ A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principa
 
 - **Resultados:**
 
-Receita Geral e Crescimento:
+  Receita Geral e Crescimento:
 A loja apresentou um crescimento de 3,7% no faturamento entre 2022 e 2023, embora o aumento tenha sido estacionário ao longo do tempo. Para sustentar e acelerar esse crescimento, recomenda-se uma estratégia dinâmica de preços e campanhas de marketing agressivas, especialmente em períodos de baixa sazonalidade, além de ações para otimizar o ticket médio e a frequência de compra dos clientes.
 
-Desempenho da Equipe de Vendas:
+  Desempenho da Equipe de Vendas:
 A equipe de vendas alcançou um bom desempenho, com um faturamento de R$ 1.898.013,00 e um ticket médio de R$ 1.765,59, porém houve uma redução na margem bruta de -5,8%. A recomendação é focar em treinamentos de venda consultiva para produtos de alta margem e revisar a política de descontos, além de implementar um sistema de acompanhamento de metas individuais.
 
-Performance de Produtos e Margem Bruta:
+  Performance de Produtos e Margem Bruta:
 Produtos com alta margem, como o "Blazer Poderoso Chefão", mostraram bom desempenho, mas outros com grande potencial de lucro apresentaram vendas insatisfatórias. A estratégia sugerida é promover campanhas focadas nesses produtos e personalizar ofertas com base na segmentação dos clientes para aumentar a rentabilidade sem depender apenas do aumento de volume de vendas.
