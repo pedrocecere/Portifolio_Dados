@@ -11,6 +11,32 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 ## [TESTES PARAMÉTRICOS E REGRESSÃO LINEAR PARA TAXA DE OCUPAÇÃO DE IMÓVEIS](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
 - **Descrição do projeto:**  
+Este projeto tem como objetivo aprimorar a gestão de performance comercial da Pinsky Modas por meio de um dashboard interativo e estratégico desenvolvido no Power BI. A solução oferece uma visão detalhada das vendas, metas e performance de produtos, facilitando a identificação de padrões, oscilações e áreas que demandam atenção. Também acompanha o desempenho da equipe, permitindo ajustes estratégicos mais rápidos e eficazes. Todo o processo foi desenvolvido no ambiente Microsoft, com o ETL realizado via Power Query e o dashboard criado no Power BI Desktop, sendo publicado para acesso público na plataforma do Power BI Service.
+
+- **Problema de negócio:**  
+A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principais indicadores comerciais. Apesar de alcançar metas em oito meses do último ano, a loja apresenta uma tendência estacionária nas vendas, evidenciando a necessidade de um sistema eficiente para mapear e monitorar os KPIs essenciais. A ausência de uma visão consolidada dificulta a identificação de padrões e a análise das variações de desempenho. Em resposta, foi solicitado um dashboard que centralize informações sobre receita, desempenho das equipes e vendas por produto, permitindo uma gestão mais eficaz e decisões rápidas para impulsionar os resultados.
+
+- **Resultados:**  
+  Com base nos critérios estabelecidos, foi possível determinar que todas as variáveis analisadas (x1 a x7) são relevantes para o modelo. Essas variáveis correspondem a:
+
+  - número médio de quartos por residência
+  - taxa de criminalidade
+  - proximidade de rios
+  - taxa de poluição
+  - distância ao centro
+  - taxa de professores
+  - taxa de desabrigados
+
+  Essas variáveis são determinantes para explicar a taxa de ocupação, conforme demonstrado pela análise dos dados fornecidos.
+  Nosso modelo de Regressão obtve um R-squared = 0,8!
+
+#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
+
+## [ANÁLISE PARA ALAVANCAGEM DE RECEITA - RESORT](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
+
+## [ANÁLISE COMERCIAL - VAREJO VESTUÁRIO](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
+
+- **Descrição do projeto:**  
   Neste projeto, realizo uma análise estatística para avaliar a taxa de ocupação dos imóveis em uma determinada cidade, investigando as relações com outras variáveis relevantes. A análise é focada em métodos estatísticos paramétricos e suas aplicações no problema de negócio. Alguns erros são deliberadamente incluídos para destacar a importância de uma análise exploratória qualificada, baseada em estatística, bem como a aplicação dos testes adequados para garantir que as condições dos modelos paramétricos sejam atendidas.
 
 - **Problema de negócio:**  
@@ -32,9 +58,3 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 
   Essas variáveis são determinantes para explicar a taxa de ocupação, conforme demonstrado pela análise dos dados fornecidos.
   Nosso modelo de Regressão obtve um R-squared = 0,8!
-
-#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
-
-## [ANÁLISE PARA ALAVANCAGEM DE RECEITA - RESORT](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
-
-## [ANÁLISE COMERCIAL - VAREJO VESTUÁRIO](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
