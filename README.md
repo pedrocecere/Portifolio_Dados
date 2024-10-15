@@ -1,4 +1,4 @@
-# Portifolio_Dados
+# Portifólio de Dados
 
 ![Banner para Linkedin Tecnologia Abstrato Azul e Branco](https://github.com/user-attachments/assets/fd0d199e-94a1-413c-8592-e96a7f0256f1)
 
@@ -36,3 +36,5 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 #### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
 ## [ANÁLISE PARA ALAVANCAGEM DE RECEITA - RESORT](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
+
+## [ANÁLISE COMERCIAL - VAREJO VESTUÁRIO](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
