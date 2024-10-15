@@ -55,3 +55,6 @@ A equipe de vendas alcançou um bom desempenho, com um faturamento de R$ 1.898.0
 
   Performance de Produtos e Margem Bruta:
 Produtos com alta margem, como o "Blazer Poderoso Chefão", mostraram bom desempenho, mas outros com grande potencial de lucro apresentaram vendas insatisfatórias. A estratégia sugerida é promover campanhas focadas nesses produtos e personalizar ofertas com base na segmentação dos clientes para aumentar a rentabilidade sem depender apenas do aumento de volume de vendas.
+
+#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
+
