@@ -11,10 +11,13 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 ## [TESTES PARAMÉTRICOS E REGRESSÃO LINEAR PARA TAXA DE OCUPAÇÃO DE IMÓVEIS](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
 - **Descrição do projeto:**  
-Este projeto tem como objetivo aprimorar a gestão de performance comercial da Pinsky Modas por meio de um dashboard interativo e estratégico desenvolvido no Power BI. A solução oferece uma visão detalhada das vendas, metas e performance de produtos, facilitando a identificação de padrões, oscilações e áreas que demandam atenção. Também acompanha o desempenho da equipe, permitindo ajustes estratégicos mais rápidos e eficazes. Todo o processo foi desenvolvido no ambiente Microsoft, com o ETL realizado via Power Query e o dashboard criado no Power BI Desktop, sendo publicado para acesso público na plataforma do Power BI Service.
+  Neste projeto, realizo uma análise estatística para avaliar a taxa de ocupação dos imóveis em uma determinada cidade, investigando as relações com outras variáveis relevantes. A análise é focada em métodos estatísticos paramétricos e suas aplicações no problema de negócio. Alguns erros são deliberadamente incluídos para destacar a importância de uma análise exploratória qualificada, baseada em estatística, bem como a aplicação dos testes adequados para garantir que as condições dos modelos paramétricos sejam atendidas.
 
 - **Problema de negócio:**  
-A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principais indicadores comerciais. Apesar de alcançar metas em oito meses do último ano, a loja apresenta uma tendência estacionária nas vendas, evidenciando a necessidade de um sistema eficiente para mapear e monitorar os KPIs essenciais. A ausência de uma visão consolidada dificulta a identificação de padrões e a análise das variações de desempenho. Em resposta, foi solicitado um dashboard que centralize informações sobre receita, desempenho das equipes e vendas por produto, permitindo uma gestão mais eficaz e decisões rápidas para impulsionar os resultados.
+  A prefeitura deseja identificar os fatores que mais afetam a taxa de ocupação de imóveis em determinados bairros, com o objetivo de embasar políticas de ocupação urbana, planejamento de investimentos e projetos socioculturais.
+
+- **Objetivo:**  
+  Realizar uma análise estatística detalhada de todos os fatores que influenciam a taxa de ocupação de imóveis, utilizando testes paramétricos. O objetivo é identificar as variáveis mais relevantes para esse processo. Com base nessa modelagem estatística, será traçado o planejamento de investimentos da prefeitura, bem como o monitoramento das regiões. O principal método utilizado é a Regressão Linear.
 
 - **Resultados:**  
   Com base nos critérios estabelecidos, foi possível determinar que todas as variáveis analisadas (x1 a x7) são relevantes para o modelo. Essas variáveis correspondem a:
@@ -37,13 +40,10 @@ A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principa
 ## [ANÁLISE COMERCIAL - VAREJO VESTUÁRIO](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
 
 - **Descrição do projeto:**  
-  Neste projeto, realizo uma análise estatística para avaliar a taxa de ocupação dos imóveis em uma determinada cidade, investigando as relações com outras variáveis relevantes. A análise é focada em métodos estatísticos paramétricos e suas aplicações no problema de negócio. Alguns erros são deliberadamente incluídos para destacar a importância de uma análise exploratória qualificada, baseada em estatística, bem como a aplicação dos testes adequados para garantir que as condições dos modelos paramétricos sejam atendidas.
+Este projeto tem como objetivo aprimorar a gestão de performance comercial da Pinsky Modas por meio de um dashboard interativo e estratégico desenvolvido no Power BI. A solução oferece uma visão detalhada das vendas, metas e performance de produtos, facilitando a identificação de padrões, oscilações e áreas que demandam atenção. Também acompanha o desempenho da equipe, permitindo ajustes estratégicos mais rápidos e eficazes. Todo o processo foi desenvolvido no ambiente Microsoft, com o ETL realizado via Power Query e o dashboard criado no Power BI Desktop, sendo publicado para acesso público na plataforma do Power BI Service.
 
 - **Problema de negócio:**  
-  A prefeitura deseja identificar os fatores que mais afetam a taxa de ocupação de imóveis em determinados bairros, com o objetivo de embasar políticas de ocupação urbana, planejamento de investimentos e projetos socioculturais.
-
-- **Objetivo:**  
-  Realizar uma análise estatística detalhada de todos os fatores que influenciam a taxa de ocupação de imóveis, utilizando testes paramétricos. O objetivo é identificar as variáveis mais relevantes para esse processo. Com base nessa modelagem estatística, será traçado o planejamento de investimentos da prefeitura, bem como o monitoramento das regiões. O principal método utilizado é a Regressão Linear.
+A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principais indicadores comerciais. Apesar de alcançar metas em oito meses do último ano, a loja apresenta uma tendência estacionária nas vendas, evidenciando a necessidade de um sistema eficiente para mapear e monitorar os KPIs essenciais. A ausência de uma visão consolidada dificulta a identificação de padrões e a análise das variações de desempenho. Em resposta, foi solicitado um dashboard que centralize informações sobre receita, desempenho das equipes e vendas por produto, permitindo uma gestão mais eficaz e decisões rápidas para impulsionar os resultados.
 
 - **Resultados:**
   A loja apresentou um crescimento de 3,7% no faturamento entre 2022 e 2023, embora o aumento tenha sido estacionário ao longo do tempo. Para sustentar e acelerar esse crescimento, recomenda-se uma estratégia dinâmica de preços e campanhas de marketing agressivas, especialmente em períodos de baixa sazonalidade, além de ações para otimizar o ticket médio e a frequência de compra dos clientes.
