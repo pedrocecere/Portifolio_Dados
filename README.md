@@ -10,16 +10,20 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 
 ## [TESTES PARAMÉTRICOS E REGRESSÃO LINEAR PARA TAXA DE OCUPAÇÃO DE IMÓVEIS](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
-- **Descrição do projeto:**  
+- **Descrição do projeto:**
+  
   Neste projeto, realizo uma análise estatística para avaliar a taxa de ocupação dos imóveis em uma determinada cidade, investigando as relações com outras variáveis relevantes. A análise é focada em métodos estatísticos paramétricos e suas aplicações no problema de negócio. Alguns erros são deliberadamente incluídos para destacar a importância de uma análise exploratória qualificada, baseada em estatística, bem como a aplicação dos testes adequados para garantir que as condições dos modelos paramétricos sejam atendidas.
 
-- **Problema de negócio:**  
+- **Problema de negócio:**
+    
   A prefeitura deseja identificar os fatores que mais afetam a taxa de ocupação de imóveis em determinados bairros, com o objetivo de embasar políticas de ocupação urbana, planejamento de investimentos e projetos socioculturais.
 
-- **Objetivo:**  
+- **Objetivo:**
+  
   Realizar uma análise estatística detalhada de todos os fatores que influenciam a taxa de ocupação de imóveis, utilizando testes paramétricos. O objetivo é identificar as variáveis mais relevantes para esse processo. Com base nessa modelagem estatística, será traçado o planejamento de investimentos da prefeitura, bem como o monitoramento das regiões. O principal método utilizado é a Regressão Linear.
 
-- **Resultados:**  
+- **Resultados:**
+  
   Com base nos critérios estabelecidos, foi possível determinar que todas as variáveis analisadas (x1 a x7) são relevantes para o modelo. Essas variáveis correspondem a:
 
   - número médio de quartos por residência
@@ -39,16 +43,21 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 
 ## [ANÁLISE COMERCIAL - VAREJO VESTUÁRIO](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
 
-- **Descrição do projeto:**  
+- **Descrição do projeto:**
+  
 Este projeto tem como objetivo aprimorar a gestão de performance comercial da Pinsky Modas por meio de um dashboard interativo e estratégico desenvolvido no Power BI. A solução oferece uma visão detalhada das vendas, metas e performance de produtos, facilitando a identificação de padrões, oscilações e áreas que demandam atenção. Também acompanha o desempenho da equipe, permitindo ajustes estratégicos mais rápidos e eficazes. Todo o processo foi desenvolvido no ambiente Microsoft, com o ETL realizado via Power Query e o dashboard criado no Power BI Desktop, sendo publicado para acesso público na plataforma do Power BI Service.
 
-- **Problema de negócio:**  
+- **Problema de negócio:**
+  
 A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principais indicadores comerciais. Apesar de alcançar metas em oito meses do último ano, a loja apresenta uma tendência estacionária nas vendas, evidenciando a necessidade de um sistema eficiente para mapear e monitorar os KPIs essenciais. A ausência de uma visão consolidada dificulta a identificação de padrões e a análise das variações de desempenho. Em resposta, foi solicitado um dashboard que centralize informações sobre receita, desempenho das equipes e vendas por produto, permitindo uma gestão mais eficaz e decisões rápidas para impulsionar os resultados.
 
 - **Resultados:**
-A loja apresentou um crescimento de 3,7% no faturamento entre 2022 e 2023, embora o aumento tenha sido estacionário ao longo do tempo. Para sustentar e acelerar esse crescimento, recomenda-se uma estratégia dinâmica de preços e campanhas de marketing agressivas, especialmente em períodos de baixa sazonalidade, além de ações para otimizar o ticket médio e a frequência de compra dos clientes.
-A equipe de vendas alcançou um bom desempenho, com um faturamento de R$ 1.898.013,00 e um ticket médio de R$ 1.765,59, porém houve uma redução na margem bruta de -5,8%. A recomendação é focar em treinamentos de venda consultiva para produtos de alta margem e revisar a política de descontos, além de implementar um sistema de acompanhamento de metas individuais.
-Produtos com alta margem, como o "Blazer Poderoso Chefão", mostraram bom desempenho, mas outros com grande potencial de lucro apresentaram vendas insatisfatórias. A estratégia sugerida é promover campanhas focadas nesses produtos e personalizar ofertas com base na segmentação dos clientes para aumentar a rentabilidade sem depender apenas do aumento de volume de vendas.
+  
+  A análise comercial da loja de vestuário revela que, apesar do crescimento de 3,7% no faturamento entre 2022 e 2023, a receita se manteve estável ao longo do tempo, sem grandes variações. A equipe de vendas teve um bom desempenho, com faturamento de R$ 1.898.013,00 e ticket médio de R$ 1.765,59. Contudo, a margem bruta caiu 5,8%, indicando erros na precificação e nas metas de vendas, o que exige uma revisão imediata da estratégia de preços.
+
+  Cinco vendedores não atingiram a performance esperada, o que impacta diretamente nos resultados. A recomendação é reforçar o treinamento de vendas consultivas para focar em produtos de alta margem, como o "Blazer Poderoso Chefão", que teve boa performance. Produtos com grande potencial de lucro, como "Psyco Universe" e "Klamath Weed", tiveram vendas insatisfatórias. Para aumentar a rentabilidade, sugere-se campanhas de marketing específicas para esses itens.
+
+  A revisão da política de descontos também é essencial para evitar a erosão de margens, e o acompanhamento de metas individuais, já implementado via dashboard, deve ser utilizado para monitorar a performance e corrigir falhas rapidamente.
 
 #### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
 
