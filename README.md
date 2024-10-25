@@ -71,11 +71,11 @@ A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principa
 
 - **Resultados:**
   
-  A análise comercial da loja de vestuário revela que, apesar do crescimento de 3,7% no faturamento entre 2022 e 2023, a receita se manteve estável ao longo do tempo, sem grandes variações. A equipe de vendas teve um bom desempenho, com faturamento de R$ 1.898.013,00 e ticket médio de R$ 1.765,59. Contudo, a margem bruta caiu 5,8%, indicando erros na precificação e nas metas de vendas, o que exige uma revisão imediata da estratégia de preços.
+A análise comercial da loja de vestuário revela que, apesar do crescimento de 3,7% no faturamento entre 2022 e 2023, a receita se manteve estável ao longo do tempo, sem grandes variações. A equipe de vendas teve um bom desempenho, com faturamento de R$ 1.898.013,00 e ticket médio de R$ 1.765,59. Contudo, a margem bruta caiu 5,8%, indicando erros na precificação e nas metas de vendas, o que exige uma revisão imediata da estratégia de preços.
 
-  Cinco vendedores não atingiram a performance esperada, o que impacta diretamente nos resultados. A recomendação é reforçar o treinamento de vendas consultivas para focar em produtos de alta margem, como o "Blazer Poderoso Chefão", que teve boa performance. Produtos com grande potencial de lucro, como "Psyco Universe" e "Klamath Weed", tiveram vendas insatisfatórias. Para aumentar a rentabilidade, sugere-se campanhas de marketing específicas para esses itens.
+Cinco vendedores não atingiram a performance esperada, o que impacta diretamente nos resultados. A recomendação é reforçar o treinamento de vendas consultivas para focar em produtos de alta margem, como o "Blazer Poderoso Chefão", que teve boa performance. Produtos com grande potencial de lucro, como "Psyco Universe" e "Klamath Weed", tiveram vendas insatisfatórias. Para aumentar a rentabilidade, sugere-se campanhas de marketing específicas para esses itens.
 
-  A revisão da política de descontos também é essencial para evitar a erosão de margens, e o acompanhamento de metas individuais, já implementado via dashboard, deve ser utilizado para monitorar a performance e corrigir falhas rapidamente.
+A revisão da política de descontos também é essencial para evitar a erosão de margens, e o acompanhamento de metas individuais, já implementado via dashboard, deve ser utilizado para monitorar a performance e corrigir falhas rapidamente.
 
 #### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
 
