@@ -40,6 +40,22 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 #### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
 ## [ANÁLISE PARA ALAVANCAGEM DE RECEITA - RESORT](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
+- **Descrição do projeto:**
+O projeto de análise de dados para o resort tem como objetivo identificar e implementar estratégias que aumentem as receitas e reduzam a taxa de cancelamento de reservas. Dada a crescente competitividade no setor hoteleiro e as mudanças nas preferências dos consumidores, torna-se fundamental utilizar análises de dados para entender o comportamento dos clientes e otimizar as operações do resort.
+
+O processo de análise começa com uma pesquisa de mercado, visando compreender os principais fatores que impulsionam o crescimento do setor, os KPIs relevantes e os problemas sistêmicos enfrentados. Com essa base, realiza-se uma análise exploratória dos dados, que permite mapear possíveis lacunas e oportunidades de melhoria. Em seguida, será construída uma árvore de hipóteses para investigar as causas dos cancelamentos e identificar potenciais alavancas para o aumento da receita anual.
+
+- **Problema de negócio:**
+
+No atual cenário de intensa competição por market share, a ascensão de plataformas online para a venda de reservas e a mudança no comportamento do público-alvo em resposta à ampla gama de opções disponíveis, o resort enfrenta desafios significativos. A taxa de cancelamento de reservas tem aumentado, enquanto a receita anual apresenta uma tendência de queda.
+
+- **Resultados:**
+
+No projeto, as principais conclusões da modelagem e resultados indicaram que a receita anual do resort apresenta sazonalidade, com picos entre fevereiro e agosto, seguidos de uma queda significativa nos meses subsequentes. O ticket médio de estadia é de R$ 302,13, sendo o segmento AT Offline o principal contribuinte. Observou-se também uma tendência crescente nos cancelamentos, especialmente no segmento AT Online. As reservas com alimentação apresentaram maior taxa de cancelamento, enquanto pedidos especiais resultaram em menor taxa. Para melhorar a situação, foram sugeridas estratégias de pré-reserva, como oferecer incentivos para reservas realizadas com antecedência, criar programas de fidelidade para hóspedes sem cancelamentos e rever as políticas de tarifas em períodos de alta e baixa demanda.
+
+Na análise das alavancas de crescimento, descobriu-se que o tempo médio entre a reserva confirmada e a atualização de status é de 43 dias, com cancelamentos ocorrendo em média 26 dias após a reserva. Além disso, a demanda é maior em dias específicos e meses de alta ocupação, o que sugere a necessidade de ajustes nas tarifas para maximizar a receita. A conclusão geral é que o resort enfrenta desafios significativos em relação à qualidade do serviço e à retenção de clientes. Portanto, a análise dos preços e das reclamações deve ser priorizada para melhorar a experiência do cliente e aumentar a receita.
+
+#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
 
 ## [ANÁLISE COMERCIAL - VAREJO VESTUÁRIO](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
 
@@ -59,5 +75,5 @@ A Pinsky Modas enfrenta um desafio significativo na supervisão de seus principa
 
   A revisão da política de descontos também é essencial para evitar a erosão de margens, e o acompanhamento de metas individuais, já implementado via dashboard, deve ser utilizado para monitorar a performance e corrigir falhas rapidamente.
 
-#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
+#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
 
