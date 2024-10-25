@@ -58,7 +58,7 @@ No projeto, as principais conclusões da modelagem e resultados indicaram que a 
 
 Na análise das alavancas de crescimento, descobriu-se que o tempo médio entre a reserva confirmada e a atualização de status é de 43 dias, com cancelamentos ocorrendo em média 26 dias após a reserva. Além disso, a demanda é maior em dias específicos e meses de alta ocupação, o que sugere a necessidade de ajustes nas tarifas para maximizar a receita. A conclusão geral é que o resort enfrenta desafios significativos em relação à qualidade do serviço e à retenção de clientes. Portanto, a análise dos preços e das reclamações deve ser priorizada para melhorar a experiência do cliente e aumentar a receita.
 
-#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
+#### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
 
 ## [ANÁLISE COMERCIAL - VAREJO VESTUÁRIO](https://github.com/pedrocecere/Portifolio_Analise_Comercial_DataViz.git)
 
