@@ -2,7 +2,8 @@
 
 ![Banner para Linkedin Tecnologia Abstrato Azul e Branco](https://github.com/user-attachments/assets/fd0d199e-94a1-413c-8592-e96a7f0256f1)
 
-Olá! Meu nome é Pedro Cecere, e sou apaixonado por dados e tecnologia. Sou formado em Gestão Financeira e atualmente trabalho como Analista de Dados no setor jurídico. Meu foco é transformar dados em insights valiosos para resolver problemas de negócios, utilizando análise de dados, ciência de dados, machine learning, estatística e matemática.
+Analista de Dados com experiência em construção e otimização de pipelines de dados, automação de processos e desenvolvimento de relatórios e dashboards para suporte estratégico. 
+Experiência com ferramentas como Power BI, SQL, Python e Git/GitHub, além de mapeamento de processos e melhorias de fluxo de trabalho utilizando Bizagi. Atuou no setor financeiro, desenvolvendo soluções de BI, monitoramento de KPIs e análise de soluções financeiras para suporte à gestão.
 
 Abaixo, você encontrará alguns dos projetos que desenvolvi!
 
