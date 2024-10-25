@@ -50,7 +50,7 @@ O processo de análise começa com uma pesquisa de mercado, visando compreender 
 
 - **Problema de negócio:**
 
-No atual cenário de intensa competição por market share, a ascensão de plataformas online para a venda de reservas e a mudança no comportamento do público-alvo em resposta à ampla gama de opções disponíveis, o resort enfrenta desafios significativos. A taxa de cancelamento de reservas tem aumentado, enquanto a receita anual apresenta uma tendência de queda.
+No atual cenário de intensa competição por market share, a ascensão de plataformas online para a venda de reservas e a mudança no comportamento do público-alvo em resposta à ampla gama de opções disponíveis, o resort enfrenta desafios significativos. A taxa de cancelamento de reservas tem aumentado, enquanto a receita anual desacelera o crescimento.
 
 - **Resultados:**
 
