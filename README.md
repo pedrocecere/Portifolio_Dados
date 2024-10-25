@@ -40,7 +40,9 @@ Abaixo, você encontrará alguns dos projetos que desenvolvi!
 #### [Acesse o projeto detalhado aqui!](https://github.com/pedrocecere/Portifolio_Regressao_Linear_Testes_Parametricos.git)
 
 ## [ANÁLISE PARA ALAVANCAGEM DE RECEITA - RESORT](https://github.com/pedrocecere/Portifolio_Case_Resort_DataViz.git)
+
 - **Descrição do projeto:**
+
 O projeto de análise de dados para o resort tem como objetivo identificar e implementar estratégias que aumentem as receitas e reduzam a taxa de cancelamento de reservas. Dada a crescente competitividade no setor hoteleiro e as mudanças nas preferências dos consumidores, torna-se fundamental utilizar análises de dados para entender o comportamento dos clientes e otimizar as operações do resort.
 
 O processo de análise começa com uma pesquisa de mercado, visando compreender os principais fatores que impulsionam o crescimento do setor, os KPIs relevantes e os problemas sistêmicos enfrentados. Com essa base, realiza-se uma análise exploratória dos dados, que permite mapear possíveis lacunas e oportunidades de melhoria. Em seguida, será construída uma árvore de hipóteses para investigar as causas dos cancelamentos e identificar potenciais alavancas para o aumento da receita anual.
